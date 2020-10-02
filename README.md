@@ -1,6 +1,6 @@
 # Abraham Salazar "AbeSal" 
-###Read me -> Welcome to my github I hope you enjoy my work (*maybe is not much but is honest work*).
-####Features:
+## Read me -> Welcome to my github I hope you enjoy my work (*maybe is not much but is honest work*).
+#### Personal Info:
 * Full Time Learner.
 * Great Work Partner.
 * Capable of Helping others.
